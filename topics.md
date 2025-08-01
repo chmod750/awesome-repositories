@@ -77,6 +77,7 @@
 - [vagrant](#vagrant)
 - [web](#web)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## android 
 
@@ -723,6 +724,10 @@
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
+
+## zsh 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 ## License

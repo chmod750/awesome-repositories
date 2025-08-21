@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [android](#android)
 - [ansible](#ansible)
 - [automation](#automation)
@@ -16,20 +17,23 @@
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
-- [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [database](#database)
 - [design](#design)
 - [developer-tools](#developer-tools)
+- [development](#development)
 - [devops](#devops)
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [embedded](#embedded)
+- [firefox](#firefox)
 - [games](#games)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [hacking](#hacking)
@@ -47,12 +51,15 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [low-code](#low-code)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
 - [music](#music)
+- [no-code](#no-code)
+- [npm](#npm)
 - [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
@@ -70,14 +77,19 @@
 - [rust](#rust)
 - [security](#security)
 - [security-tools](#security-tools)
+- [self-hosted](#self-hosted)
 - [shell](#shell)
 - [svelte](#svelte)
 - [terraform](#terraform)
 - [testing](#testing)
+- [typescript](#typescript)
 - [vagrant](#vagrant)
 - [web](#web)
 - [windows](#windows)
-- [zsh](#zsh)
+
+## ai 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## android 
 
@@ -91,6 +103,7 @@
 
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 
 ## awesome 
@@ -116,6 +129,7 @@
 
 ## bugbounty 
 
+- [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) - Community curated list of public bug bounty and responsible disclosure programs.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -139,17 +153,21 @@
 
 ## chrome 
 
-- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
-
-## chrome-extension 
-
 - [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube's automatic translations! It keeps titles, descriptions, and audio in their original language.
+- [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 
 ## cli 
 
+- [projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client) - Go client to communicate with Chaos DB API.
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+## crawler 
+
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 
 ## csharp 
 
@@ -177,6 +195,10 @@
 ## developer-tools 
 
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+
+## development 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## devops 
 
@@ -208,6 +230,10 @@
 - [furrtek/portapack-havoc](https://github.com/furrtek/portapack-havoc) - Custom firmware for the HackRF SDR + PortaPack H1 addon
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 
+## firefox 
+
+- [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube's automatic translations! It keeps titles, descriptions, and audio in their original language.
+
 ## games 
 
 - [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) - RogueMaster Flipper Zero Firmware
@@ -215,6 +241,10 @@
 ## git 
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+## github 
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## go 
 
@@ -266,6 +296,7 @@
 
 ## hacktoberfest 
 
+- [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) - Community curated list of public bug bounty and responsible disclosure programs.
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 - [BC-SECURITY/Empire](https://github.com/BC-SECURITY/Empire) - Empire is a post-exploitation and adversary emulation framework that is used to aid Red Teams and Penetration Testers.
@@ -359,6 +390,10 @@
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
+## low-code 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## lua 
 
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
@@ -389,6 +424,14 @@
 
 - [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os) - Linux distribution optimized for audio playback
 
+## no-code 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## npm 
+
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+
 ## open-source 
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -404,6 +447,10 @@
 
 ## others 
 
+- [blacklanternsecurity/bbot-server](https://github.com/blacklanternsecurity/bbot-server) - A persistent database + CLI for your BBOT scan data 🧡
+- [atlas0fd00m/rfcat](https://github.com/atlas0fd00m/rfcat) - RfCat - swiss-army knife of ISM band radio
+- [blackmagic-debug/blackmagic](https://github.com/blackmagic-debug/blackmagic) - In-application debugger for ARM Cortex and RISC-V processors.
+- [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 - [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf) - DRAKVUF Black-box Binary Analysis
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -621,6 +668,7 @@
 
 ## rust 
 
+- [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -681,6 +729,10 @@
 - [BishopFox/rmiscout](https://github.com/BishopFox/rmiscout) - RMIScout uses wordlist and bruteforce strategies to enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 
+## self-hosted 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## shell 
 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -698,6 +750,10 @@
 ## testing 
 
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
+
+## typescript 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## vagrant 
 
@@ -724,10 +780,6 @@
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
-
-## zsh 
-
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 ## License

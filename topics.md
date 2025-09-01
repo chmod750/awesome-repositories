@@ -30,7 +30,6 @@
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [embedded](#embedded)
-- [firefox](#firefox)
 - [games](#games)
 - [git](#git)
 - [github](#github)
@@ -153,7 +152,6 @@
 
 ## chrome 
 
-- [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube's automatic translations! It keeps titles, descriptions, and audio in their original language.
 - [sensepost/gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 
 ## cli 
@@ -229,10 +227,6 @@
 
 - [furrtek/portapack-havoc](https://github.com/furrtek/portapack-havoc) - Custom firmware for the HackRF SDR + PortaPack H1 addon
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
-
-## firefox 
-
-- [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube's automatic translations! It keeps titles, descriptions, and audio in their original language.
 
 ## games 
 

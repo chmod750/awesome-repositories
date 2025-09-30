@@ -46,6 +46,7 @@
 - [java](#java)
 - [javafx](#javafx)
 - [jenkins](#jenkins)
+- [kali-linux](#kali-linux)
 - [kubernetes](#kubernetes)
 - [library](#library)
 - [linux](#linux)
@@ -68,6 +69,7 @@
 - [php](#php)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -85,6 +87,7 @@
 - [vagrant](#vagrant)
 - [web](#web)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -290,6 +293,7 @@
 
 ## hacktoberfest 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) - Community curated list of public bug bounty and responsible disclosure programs.
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
@@ -305,7 +309,6 @@
 - [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 - [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) - GNU Radio – the Free and Open Software Radio Ecosystem
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
@@ -350,6 +353,10 @@
 ## jenkins 
 
 - [gquere/pwn_jenkins](https://github.com/gquere/pwn_jenkins) - Notes about attacking Jenkins servers
+
+## kali-linux 
+
+- [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 
 ## kubernetes 
 
@@ -599,6 +606,7 @@
 
 ## php 
 
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 
 ## powershell 
@@ -613,6 +621,10 @@
 ## privacy 
 
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
+## productivity 
+
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 
 ## python 
 
@@ -662,6 +674,7 @@
 
 ## rust 
 
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -669,6 +682,7 @@
 
 ## security 
 
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
@@ -774,6 +788,10 @@
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
 - [mandiant/commando-vm](https://github.com/mandiant/commando-vm) - Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com
+
+## zsh 
+
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 ## License

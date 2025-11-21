@@ -87,6 +87,7 @@
 
 ## C++ 
 
+- [wesmar/kvc](https://github.com/wesmar/kvc) - KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch/skci.dll hijack) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS.
 - [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf) - DRAKVUF Black-box Binary Analysis
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [osmocom/gr-osmosdr](https://github.com/osmocom/gr-osmosdr) - Mirrored from https://gitea.osmocom.org/sdr/gr-osmosdr
@@ -159,7 +160,6 @@
 
 ## JavaScript 
 
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [cure53/H5SC](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
@@ -213,6 +213,9 @@
 
 ## Python 
 
+- [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [MorDavid/DonPwner](https://github.com/MorDavid/DonPwner) - Advanced Domain Controller attack and credential analysis tool leveraging DonPAPI database
 - [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug boun
 - [blacklanternsecurity/bbot-server](https://github.com/blacklanternsecurity/bbot-server) - A persistent database + CLI for your BBOT scan data 🧡
 - [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
@@ -288,6 +291,7 @@
 
 ## Rust 
 
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [probe-rs/probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -324,6 +328,7 @@
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).

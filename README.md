@@ -87,7 +87,7 @@
 
 ## C++ 
 
-- [wesmar/kvc](https://github.com/wesmar/kvc) - KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch/skci.dll hijack) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS.
+- [wesmar/kvc](https://github.com/wesmar/kvc) - KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS.
 - [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf) - DRAKVUF Black-box Binary Analysis
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [osmocom/gr-osmosdr](https://github.com/osmocom/gr-osmosdr) - Mirrored from https://gitea.osmocom.org/sdr/gr-osmosdr

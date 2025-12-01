@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
@@ -20,6 +21,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [cli](#cli)
+- [command-line](#command-line)
 - [crawler](#crawler)
 - [csharp](#csharp)
 - [css](#css)
@@ -90,6 +92,10 @@
 - [web](#web)
 - [windows](#windows)
 - [zsh](#zsh)
+
+## agent 
+
+- [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
 
 ## ai 
 
@@ -176,6 +182,10 @@
 - [blacklanternsecurity/bbot](https://github.com/blacklanternsecurity/bbot) - The recursive internet scanner for hackers. 🧡
 - [niklashigi/apk-mitm](https://github.com/niklashigi/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+## command-line 
+
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## crawler 
 
@@ -470,7 +480,7 @@
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [MorDavid/DonPwner](https://github.com/MorDavid/DonPwner) - Advanced Domain Controller attack and credential analysis tool leveraging DonPAPI database
-- [wesmar/kvc](https://github.com/wesmar/kvc) - KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch/skci.dll hijack) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS.
+- [wesmar/kvc](https://github.com/wesmar/kvc) - KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS.
 - [wiz-sec-public/zeroday-cloud-2025](https://github.com/wiz-sec-public/zeroday-cloud-2025) - 
 - [blacklanternsecurity/bbot-server](https://github.com/blacklanternsecurity/bbot-server) - A persistent database + CLI for your BBOT scan data 🧡
 - [atlas0fd00m/rfcat](https://github.com/atlas0fd00m/rfcat) - RfCat - swiss-army knife of ISM band radio

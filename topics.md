@@ -60,6 +60,7 @@
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [mcp](#mcp)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
@@ -418,7 +419,7 @@
 - [D4Vinci/One-Lin3r](https://github.com/D4Vinci/One-Lin3r) - Gives you one-liners that aids in penetration testing operations, privilege escalation and more
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
-- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
@@ -446,6 +447,11 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
+
+## malware 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
 
 ## mcp 
 
@@ -555,7 +561,6 @@
 - [outflanknl/Scripts](https://github.com/outflanknl/Scripts) - Small scripts that make life better
 - [RedSiege/hot-manchego](https://github.com/RedSiege/hot-manchego) - Macro-Enabled Excel File Generator (.xlsm) using the EPPlus Library.
 - [sevagas/macro_pack](https://github.com/sevagas/macro_pack) - macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of Office documents, VB scripts, shortcuts, and other formats for pentest, demo, and social engineering assessments. T
-- [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
 - [Flangvik/AMSI.fail](https://github.com/Flangvik/AMSI.fail) - C# Azure Function with an HTTP trigger that generates obfuscated PowerShell snippets that break or disable AMSI for the current process.
 - [mdsecactivebreach/o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - A toolkit to attack Office365
 - [P1sec/CryptoMobile](https://github.com/P1sec/CryptoMobile) - Cryptography for mobile network - C implementation and Python bindings
@@ -740,6 +745,7 @@
 
 ## security 
 
+- [newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer) - ChipWhisperer - the complete open-source toolchain for side-channel power analysis and glitching attacks
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [ivre/ivre](https://github.com/ivre/ivre) - Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, colle
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
